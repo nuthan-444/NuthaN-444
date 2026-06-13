@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuthan Prasad K G.</h1>
 <h3 align="center">A passionate Full Stack Web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuthan-444&label=Profile%20views&color=0e75b6&style=flat" alt="nuthan-444" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuthan-444&label=Profile%20views&color=0e75b6&style=flat" alt="nuthan-444"  /> </p>
 
 - 🤝 I’m looking for help with **Web Development.**
 
